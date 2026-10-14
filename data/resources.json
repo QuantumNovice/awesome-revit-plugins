@@ -10,38 +10,38 @@
           "title": "Exporters and Interoperability",
           "items": [
             {
+              "name": "addins-excelexporterimporter",
+              "url": "https://github.com/bimone/addins-excelexporterimporter",
+              "description": "Import and export Revit data through Excel.",
+              "license": "MIT"
+            },
+            {
+              "name": "addins-NWCBatchExport",
+              "url": "https://github.com/bimone/addins-NWCBatchExport",
+              "description": "Batch export of Navisworks NWC files.",
+              "license": "MIT"
+            },
+            {
               "name": "OpenGLB",
               "url": "https://quantumnovice.github.io/OpenGLB/",
               "description": "Open-source Revit to GLB (glTF 2.0 binary) exporter with geometry, hierarchy, materials, and BIM metadata JSON. Revit 2020-2026.",
               "license": "GPL-3.0"
             },
             {
-              "name": "Autodesk/revit-ifc",
-              "url": "https://github.com/Autodesk/revit-ifc",
-              "description": "Official IFC import/export for Revit (2019+)."
-            },
-            {
-              "name": "EverseDevelopment/revit-glTF-exporter",
+              "name": "revit-glTF-exporter",
               "url": "https://github.com/EverseDevelopment/revit-glTF-exporter",
               "description": "Revit add-in that exports glTF files.",
               "license": "MIT"
             },
             {
-              "name": "mcneel/rhino.inside-revit",
+              "name": "revit-ifc",
+              "url": "https://github.com/Autodesk/revit-ifc",
+              "description": "Official IFC import/export for Revit (2019+)."
+            },
+            {
+              "name": "rhino.inside-revit",
               "url": "https://github.com/mcneel/rhino.inside-revit",
               "description": "Run Rhino and Grasshopper inside Revit.",
-              "license": "MIT"
-            },
-            {
-              "name": "bimone/addins-excelexporterimporter",
-              "url": "https://github.com/bimone/addins-excelexporterimporter",
-              "description": "Import and export Revit data through Excel.",
-              "license": "MIT"
-            },
-            {
-              "name": "bimone/addins-NWCBatchExport",
-              "url": "https://github.com/bimone/addins-NWCBatchExport",
-              "description": "Batch export of Navisworks NWC files.",
               "license": "MIT"
             }
           ]
@@ -50,53 +50,53 @@
           "title": "Productivity and Automation",
           "items": [
             {
-              "name": "pyrevitlabs/pyRevit",
-              "url": "https://github.com/pyrevitlabs/pyRevit",
-              "description": "Rapid application development environment for Revit. Build tools in Python (IronPython or CPython).",
-              "license": "GPL-3.0"
-            },
-            {
-              "name": "DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server",
-              "url": "https://github.com/DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server",
-              "description": "Plumbing fixture flow overrides for fixture unit values below 5.",
-              "license": "MIT"
-            },
-            {
-              "name": "mattmas/AreaPlanHelper",
-              "url": "https://github.com/mattmas/AreaPlanHelper",
-              "description": "Create areas from rooms using BOMA or similar rules."
-            },
-            {
-              "name": "HP-Enterprise/RevitHP",
-              "url": "https://github.com/HP-Enterprise/RevitHP",
-              "description": "Family library browser."
-            },
-            {
-              "name": "PitPaf/LazyDetailComponent",
-              "url": "https://github.com/PitPaf/LazyDetailComponent",
-              "description": "Detail component helper.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/RevitAddin.FamilyLoader",
-              "url": "https://github.com/ricaun-io/RevitAddin.FamilyLoader",
-              "description": "Load and place Revit families from a plugin.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/RevitAddin.CommandLoader",
-              "url": "https://github.com/ricaun-io/RevitAddin.CommandLoader",
-              "description": "Compile and add IExternalCommand buttons to the ribbon with Revit open.",
-              "license": "MIT"
-            },
-            {
-              "name": "khilller/AIrender-revitaddin",
+              "name": "AIrender-revitaddin",
               "url": "https://github.com/khilller/AIrender-revitaddin",
               "description": "Render images from Revit using Stable Diffusion models.",
               "license": "MIT"
             },
             {
-              "name": "EverseDevelopment/ZoidbergAI.Addin",
+              "name": "AreaPlanHelper",
+              "url": "https://github.com/mattmas/AreaPlanHelper",
+              "description": "Create areas from rooms using BOMA or similar rules."
+            },
+            {
+              "name": "LazyDetailComponent",
+              "url": "https://github.com/PitPaf/LazyDetailComponent",
+              "description": "Detail component helper.",
+              "license": "MIT"
+            },
+            {
+              "name": "pyRevit",
+              "url": "https://github.com/pyrevitlabs/pyRevit",
+              "description": "Rapid application development environment for Revit. Build tools in Python (IronPython or CPython).",
+              "license": "GPL-3.0"
+            },
+            {
+              "name": "Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server",
+              "url": "https://github.com/DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server",
+              "description": "Plumbing fixture flow overrides for fixture unit values below 5.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAddin.CommandLoader",
+              "url": "https://github.com/ricaun-io/RevitAddin.CommandLoader",
+              "description": "Compile and add IExternalCommand buttons to the ribbon with Revit open.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAddin.FamilyLoader",
+              "url": "https://github.com/ricaun-io/RevitAddin.FamilyLoader",
+              "description": "Load and place Revit families from a plugin.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitHP",
+              "url": "https://github.com/HP-Enterprise/RevitHP",
+              "description": "Family library browser."
+            },
+            {
+              "name": "ZoidbergAI.Addin",
               "url": "https://github.com/EverseDevelopment/ZoidbergAI.Addin",
               "description": "AI BIM assistant add-in.",
               "license": "MIT"
@@ -107,22 +107,22 @@
           "title": "Inspection and Database Tools",
           "items": [
             {
-              "name": "lookup-foundation/RevitLookup",
-              "url": "https://github.com/lookup-foundation/RevitLookup",
-              "description": "Interactive Revit database explorer for inspecting elements and parameters.",
-              "license": "MIT"
+              "name": "OpenDefinery-RevitAddins",
+              "url": "https://github.com/TripleZeroLabs/OpenDefinery-RevitAddins",
+              "description": "Cloud-based shared parameter management.",
+              "license": "GPL-3.0"
             },
             {
-              "name": "ricaun-io/RevitAddin.UpdaterTester",
+              "name": "RevitAddin.UpdaterTester",
               "url": "https://github.com/ricaun-io/RevitAddin.UpdaterTester",
               "description": "Show which BuiltInParameters trigger an IUpdater.",
               "license": "MIT"
             },
             {
-              "name": "TripleZeroLabs/OpenDefinery-RevitAddins",
-              "url": "https://github.com/TripleZeroLabs/OpenDefinery-RevitAddins",
-              "description": "Cloud-based shared parameter management.",
-              "license": "GPL-3.0"
+              "name": "RevitLookup",
+              "url": "https://github.com/lookup-foundation/RevitLookup",
+              "description": "Interactive Revit database explorer for inspecting elements and parameters.",
+              "license": "MIT"
             }
           ]
         },
@@ -130,13 +130,13 @@
           "title": "Visual Programming",
           "items": [
             {
-              "name": "DynamoDS/Dynamo",
+              "name": "Dynamo",
               "url": "https://github.com/DynamoDS/Dynamo",
               "description": "Open-source graphical programming for computational design and automation. Runs standalone or inside Revit.",
               "license": "Apache-2.0"
             },
             {
-              "name": "DynamoDS/DynamoRevit",
+              "name": "DynamoRevit",
               "url": "https://github.com/DynamoDS/DynamoRevit",
               "description": "Dynamo libraries for Revit.",
               "license": "Apache-2.0"
@@ -147,68 +147,68 @@
           "title": "Developer Tools and Templates",
           "items": [
             {
-              "name": "Nice3point/RevitTemplates",
-              "url": "https://github.com/Nice3point/RevitTemplates",
-              "description": "Project templates for Revit add-ins.",
-              "license": "MIT"
-            },
-            {
-              "name": "Nice3point/RevitToolkit",
-              "url": "https://github.com/Nice3point/RevitToolkit",
-              "description": "Toolkit for Revit plugin development.",
-              "license": "MIT"
-            },
-            {
-              "name": "jeremytammik/VisualStudioRevitAddinWizard",
-              "url": "https://github.com/jeremytammik/VisualStudioRevitAddinWizard",
-              "description": "Visual Studio templates for C# and VB.NET Revit add-ins.",
-              "license": "MIT"
-            },
-            {
-              "name": "salaros/vs-templates-revit-addin",
-              "url": "https://github.com/salaros/vs-templates-revit-addin",
-              "description": "Visual Studio C# template for Revit add-ins.",
-              "license": "MIT"
-            },
-            {
-              "name": "romangolev/RevitAddinTemplate.Multiversion",
-              "url": "https://github.com/romangolev/RevitAddinTemplate.Multiversion",
-              "description": ".NET project template for multi-version Revit add-ins."
-            },
-            {
-              "name": "ricaun-io/ricaun.RevitTest",
-              "url": "https://github.com/ricaun-io/ricaun.RevitTest",
-              "description": "Multi-version NUnit testing framework for the Revit API.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/ricaun.Revit.UI",
-              "url": "https://github.com/ricaun-io/ricaun.Revit.UI",
-              "description": "Revit UI API extension with RibbonItem utilities.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/RevitAddin.VisualStudioDebug",
-              "url": "https://github.com/ricaun-io/RevitAddin.VisualStudioDebug",
-              "description": "Debug add-ins with Visual Studio attached to Revit.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/RevitAddin.WpfUi.Sample",
-              "url": "https://github.com/ricaun-io/RevitAddin.WpfUi.Sample",
-              "description": "WPF-UI sample for the Revit API.",
-              "license": "MIT"
-            },
-            {
-              "name": "ricaun-io/RevitAddin.ProgressBar.Example",
+              "name": "RevitAddin.ProgressBar.Example",
               "url": "https://github.com/ricaun-io/RevitAddin.ProgressBar.Example",
               "description": "Progress bar in a Revit plugin.",
               "license": "MIT"
             },
             {
-              "name": "chuongmep/RevitAddinMsiBuilder",
+              "name": "RevitAddin.VisualStudioDebug",
+              "url": "https://github.com/ricaun-io/RevitAddin.VisualStudioDebug",
+              "description": "Debug add-ins with Visual Studio attached to Revit.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAddin.WpfUi.Sample",
+              "url": "https://github.com/ricaun-io/RevitAddin.WpfUi.Sample",
+              "description": "WPF-UI sample for the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAddinMsiBuilder",
               "url": "https://github.com/chuongmep/RevitAddinMsiBuilder",
               "description": "Build MSI installers for add-ins from the CLI.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAddinTemplate.Multiversion",
+              "url": "https://github.com/romangolev/RevitAddinTemplate.Multiversion",
+              "description": ".NET project template for multi-version Revit add-ins."
+            },
+            {
+              "name": "RevitTemplates",
+              "url": "https://github.com/Nice3point/RevitTemplates",
+              "description": "Project templates for Revit add-ins.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitToolkit",
+              "url": "https://github.com/Nice3point/RevitToolkit",
+              "description": "Toolkit for Revit plugin development.",
+              "license": "MIT"
+            },
+            {
+              "name": "ricaun.Revit.UI",
+              "url": "https://github.com/ricaun-io/ricaun.Revit.UI",
+              "description": "Revit UI API extension with RibbonItem utilities.",
+              "license": "MIT"
+            },
+            {
+              "name": "ricaun.RevitTest",
+              "url": "https://github.com/ricaun-io/ricaun.RevitTest",
+              "description": "Multi-version NUnit testing framework for the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "VisualStudioRevitAddinWizard",
+              "url": "https://github.com/jeremytammik/VisualStudioRevitAddinWizard",
+              "description": "Visual Studio templates for C# and VB.NET Revit add-ins.",
+              "license": "MIT"
+            },
+            {
+              "name": "vs-templates-revit-addin",
+              "url": "https://github.com/salaros/vs-templates-revit-addin",
+              "description": "Visual Studio C# template for Revit add-ins.",
               "license": "MIT"
             }
           ]
@@ -217,32 +217,32 @@
           "title": "Sample Code and Learning",
           "items": [
             {
-              "name": "songjiahong/revitapisamples",
-              "url": "https://github.com/songjiahong/revitapisamples",
-              "description": "Revit add-in samples using the Revit API.",
-              "license": "MIT"
-            },
-            {
-              "name": "StarkBIM/SampleRevitAddin",
-              "url": "https://github.com/StarkBIM/SampleRevitAddin",
-              "description": "Multi-layer add-in demonstrating dependency injection and unit testing.",
-              "license": "MIT"
-            },
-            {
-              "name": "Ibrahim5aad/revit-addin-clean-architecture",
+              "name": "revit-addin-clean-architecture",
               "url": "https://github.com/Ibrahim5aad/revit-addin-clean-architecture",
               "description": "Layered clean architecture with MVVM and IoC for add-ins."
             },
             {
-              "name": "ADN-DevTech/revit-automation-dwg-exporter",
+              "name": "revit-automation-dwg-exporter",
               "url": "https://github.com/ADN-DevTech/revit-automation-dwg-exporter",
               "description": "Export views to DWG with Design Automation for Revit.",
               "license": "MIT"
             },
             {
-              "name": "BIMCoderLiang/RevitJumper",
+              "name": "revitapisamples",
+              "url": "https://github.com/songjiahong/revitapisamples",
+              "description": "Revit add-in samples using the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitJumper",
               "url": "https://github.com/BIMCoderLiang/RevitJumper",
               "description": "Search Revit API docs from inside Revit.",
+              "license": "MIT"
+            },
+            {
+              "name": "SampleRevitAddin",
+              "url": "https://github.com/StarkBIM/SampleRevitAddin",
+              "description": "Multi-layer add-in demonstrating dependency injection and unit testing.",
               "license": "MIT"
             }
           ]
@@ -257,29 +257,74 @@
           "title": "Autodesk App Store",
           "items": [
             {
-              "name": "Autodesk App Store for Revit",
-              "url": "https://apps.autodesk.com/RVT/en/Home",
-              "description": "Official marketplace for Revit add-ins, both free and paid. Paid listings include SmartHanger (hangers and supports for MEP curve elements) and BIMF Tools (pipe penetrations)."
+              "name": "BIMF Tools: Insert Pipe Penetrations",
+              "url": "https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba",
+              "description": "Automate pipe penetration insertion with auto-sizing and quick placement. USD 19.80."
+            },
+            {
+              "name": "SmartHanger",
+              "url": "https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8",
+              "description": "Automatically place and manage hangers and supports on MEP elements using preset rules. USD 16.99/month with a free trial."
             }
           ]
         },
         {
-          "title": "Commercial Add-in Suites",
+          "title": "Ideate Software",
           "items": [
             {
-              "name": "Ideate Software",
-              "url": "https://ideatesoftware.com/popular-autodesk-revit-addins",
-              "description": "Autodesk Authorized Developer with several Revit add-ins sold as a bundle."
+              "name": "Ideate Automation",
+              "url": "https://ideatesoftware.com/ideate-automation",
+              "description": "Scripting tool for running time-intensive Revit tasks in the background."
             },
             {
-              "name": "Revizto",
-              "url": "https://revizto.com/en/revit-addins-addons-plugins",
-              "description": "Collaboration and issue-tracking platform with a Revit add-in."
+              "name": "Ideate BIMLink",
+              "url": "https://ideatesoftware.com/ideate-bimlink",
+              "description": "Move Revit data to Excel for editing and push it back into the model."
             },
             {
-              "name": "Graitec",
-              "url": "https://graitec.com/uk/blog/free-vs-paid-revit-plugins-comparison-for-2025/",
-              "description": "Vendor of Revit add-in suites. Also publishes a free vs paid comparison."
+              "name": "Ideate Explorer",
+              "url": "https://ideatesoftware.com/ideate-explorer",
+              "description": "Model browser with a Warnings Manager. Ideate's first Revit add-in."
+            },
+            {
+              "name": "Ideate Sticky",
+              "url": "https://ideatesoftware.com/ideate-sticky",
+              "description": "Link Excel, Word and PDF data with Revit."
+            },
+            {
+              "name": "Ideate StyleManager",
+              "url": "https://ideatesoftware.com/ideate-stylemanager",
+              "description": "Manage styles, patterns, materials and more in Revit projects."
+            },
+            {
+              "name": "IdeateApps",
+              "url": "https://ideatesoftware.com/ideateapps",
+              "description": "Collection of ten productivity tools for everyday Revit tasks."
+            }
+          ]
+        },
+        {
+          "title": "Graitec",
+          "items": [
+            {
+              "name": "PowerPack Design & Detailing for Revit",
+              "url": "https://graitec.com/us/products/powerpack-for-rebar-design-in-revit/",
+              "description": "Rebar detailing and documentation."
+            },
+            {
+              "name": "Strucsoft Metal",
+              "url": "https://graitec.com/us/products/mwf-pro-metal/",
+              "description": "Rule-based, template-driven framing automation for light gauge steel."
+            },
+            {
+              "name": "Strucsoft Metal+",
+              "url": "https://graitec.com/us/products/mwf-advanced-metal-by-strucsoft/",
+              "description": "Advanced light gauge steel framing add-in from Strucsoft."
+            },
+            {
+              "name": "Strucsoft Wood",
+              "url": "https://graitec.com/us/products/mwf-pro-wood/",
+              "description": "Rule-based, template-driven wood framing automation."
             }
           ]
         }
