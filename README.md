@@ -3,7 +3,7 @@ Awesome Revit Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome
 
 > A curated list of plugins, add-ins, extensions, and developer tools for Autodesk Revit, split into open-source and paid.
 
-Awesome Revit Plugins collects the best free and commercial **Revit add-ins** for BIM and AEC teams. It covers **pyRevit**, **Dynamo for Revit**, **IFC and glTF exporters**, **Revit API** templates and samples, inspection tools like RevitLookup, and paid add-ins from the Autodesk App Store. Each entry links to the project and lists its license.
+Awesome Revit Plugins is a curated list of free and commercial add-ins, plugins, and developer tools for Autodesk Revit, for BIM and AEC teams and developers.
 
 Contents
 --------
