@@ -1,0 +1,16 @@
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+bin/
+obj/
+*.user
+*.suo
+
+# Revit and temporary files
+*.rvt.bak
+*.0001.rvt
+*.tmp
