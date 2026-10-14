@@ -26,57 +26,57 @@ Open Source
 -----------
 
 ### Exporters and Interoperability
-* [addins-excelexporterimporter](https://github.com/bimone/addins-excelexporterimporter) - Import and export Revit data through Excel. (MIT)
-* [addins-NWCBatchExport](https://github.com/bimone/addins-NWCBatchExport) - Batch export of Navisworks NWC files. (MIT)
-* [OpenGLB](https://quantumnovice.github.io/OpenGLB/) - Open-source Revit to GLB (glTF 2.0 binary) exporter with geometry, hierarchy, materials, and BIM metadata JSON. Revit 2020-2026. (GPL-3.0)
-* [revit-glTF-exporter](https://github.com/EverseDevelopment/revit-glTF-exporter) - Revit add-in that exports glTF files. (MIT)
+* [addins-excelexporterimporter](https://github.com/bimone/addins-excelexporterimporter) - Import and export Revit data through Excel.
+* [addins-NWCBatchExport](https://github.com/bimone/addins-NWCBatchExport) - Batch export of Navisworks NWC files.
+* [OpenGLB](https://quantumnovice.github.io/OpenGLB/) - Open-source Revit to GLB (glTF 2.0 binary) exporter with geometry, hierarchy, materials, and BIM metadata JSON. Revit 2020-2026.
+* [revit-glTF-exporter](https://github.com/EverseDevelopment/revit-glTF-exporter) - Revit add-in that exports glTF files.
 * [revit-ifc](https://github.com/Autodesk/revit-ifc) - Official IFC import/export for Revit (2019+).
-* [rhino.inside-revit](https://github.com/mcneel/rhino.inside-revit) - Run Rhino and Grasshopper inside Revit. (MIT)
+* [rhino.inside-revit](https://github.com/mcneel/rhino.inside-revit) - Run Rhino and Grasshopper inside Revit.
 
 
 ### Productivity and Automation
-* [AIrender-revitaddin](https://github.com/khilller/AIrender-revitaddin) - Render images from Revit using Stable Diffusion models. (MIT)
+* [AIrender-revitaddin](https://github.com/khilller/AIrender-revitaddin) - Render images from Revit using Stable Diffusion models.
 * [AreaPlanHelper](https://github.com/mattmas/AreaPlanHelper) - Create areas from rooms using BOMA or similar rules.
-* [LazyDetailComponent](https://github.com/PitPaf/LazyDetailComponent) - Detail component helper. (MIT)
-* [pyRevit](https://github.com/pyrevitlabs/pyRevit) - Rapid application development environment for Revit. Build tools in Python (IronPython or CPython). (GPL-3.0)
-* [Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server](https://github.com/DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server) - Plumbing fixture flow overrides for fixture unit values below 5. (MIT)
-* [RevitAddin.CommandLoader](https://github.com/ricaun-io/RevitAddin.CommandLoader) - Compile and add IExternalCommand buttons to the ribbon with Revit open. (MIT)
-* [RevitAddin.FamilyLoader](https://github.com/ricaun-io/RevitAddin.FamilyLoader) - Load and place Revit families from a plugin. (MIT)
+* [LazyDetailComponent](https://github.com/PitPaf/LazyDetailComponent) - Detail component helper.
+* [pyRevit](https://github.com/pyrevitlabs/pyRevit) - Rapid application development environment for Revit. Build tools in Python (IronPython or CPython).
+* [Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server](https://github.com/DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server) - Plumbing fixture flow overrides for fixture unit values below 5.
+* [RevitAddin.CommandLoader](https://github.com/ricaun-io/RevitAddin.CommandLoader) - Compile and add IExternalCommand buttons to the ribbon with Revit open.
+* [RevitAddin.FamilyLoader](https://github.com/ricaun-io/RevitAddin.FamilyLoader) - Load and place Revit families from a plugin.
 * [RevitHP](https://github.com/HP-Enterprise/RevitHP) - Family library browser.
-* [ZoidbergAI.Addin](https://github.com/EverseDevelopment/ZoidbergAI.Addin) - AI BIM assistant add-in. (MIT)
+* [ZoidbergAI.Addin](https://github.com/EverseDevelopment/ZoidbergAI.Addin) - AI BIM assistant add-in.
 
 
 ### Inspection and Database Tools
-* [OpenDefinery-RevitAddins](https://github.com/TripleZeroLabs/OpenDefinery-RevitAddins) - Cloud-based shared parameter management. (GPL-3.0)
-* [RevitAddin.UpdaterTester](https://github.com/ricaun-io/RevitAddin.UpdaterTester) - Show which BuiltInParameters trigger an IUpdater. (MIT)
-* [RevitLookup](https://github.com/lookup-foundation/RevitLookup) - Interactive Revit database explorer for inspecting elements and parameters. (MIT)
+* [OpenDefinery-RevitAddins](https://github.com/TripleZeroLabs/OpenDefinery-RevitAddins) - Cloud-based shared parameter management.
+* [RevitAddin.UpdaterTester](https://github.com/ricaun-io/RevitAddin.UpdaterTester) - Show which BuiltInParameters trigger an IUpdater.
+* [RevitLookup](https://github.com/lookup-foundation/RevitLookup) - Interactive Revit database explorer for inspecting elements and parameters.
 
 
 ### Visual Programming
-* [Dynamo](https://github.com/DynamoDS/Dynamo) - Open-source graphical programming for computational design and automation. Runs standalone or inside Revit. (Apache-2.0)
-* [DynamoRevit](https://github.com/DynamoDS/DynamoRevit) - Dynamo libraries for Revit. (Apache-2.0)
+* [Dynamo](https://github.com/DynamoDS/Dynamo) - Open-source graphical programming for computational design and automation. Runs standalone or inside Revit.
+* [DynamoRevit](https://github.com/DynamoDS/DynamoRevit) - Dynamo libraries for Revit.
 
 
 ### Developer Tools and Templates
-* [RevitAddin.ProgressBar.Example](https://github.com/ricaun-io/RevitAddin.ProgressBar.Example) - Progress bar in a Revit plugin. (MIT)
-* [RevitAddin.VisualStudioDebug](https://github.com/ricaun-io/RevitAddin.VisualStudioDebug) - Debug add-ins with Visual Studio attached to Revit. (MIT)
-* [RevitAddin.WpfUi.Sample](https://github.com/ricaun-io/RevitAddin.WpfUi.Sample) - WPF-UI sample for the Revit API. (MIT)
-* [RevitAddinMsiBuilder](https://github.com/chuongmep/RevitAddinMsiBuilder) - Build MSI installers for add-ins from the CLI. (MIT)
+* [RevitAddin.ProgressBar.Example](https://github.com/ricaun-io/RevitAddin.ProgressBar.Example) - Progress bar in a Revit plugin.
+* [RevitAddin.VisualStudioDebug](https://github.com/ricaun-io/RevitAddin.VisualStudioDebug) - Debug add-ins with Visual Studio attached to Revit.
+* [RevitAddin.WpfUi.Sample](https://github.com/ricaun-io/RevitAddin.WpfUi.Sample) - WPF-UI sample for the Revit API.
+* [RevitAddinMsiBuilder](https://github.com/chuongmep/RevitAddinMsiBuilder) - Build MSI installers for add-ins from the CLI.
 * [RevitAddinTemplate.Multiversion](https://github.com/romangolev/RevitAddinTemplate.Multiversion) - .NET project template for multi-version Revit add-ins.
-* [RevitTemplates](https://github.com/Nice3point/RevitTemplates) - Project templates for Revit add-ins. (MIT)
-* [RevitToolkit](https://github.com/Nice3point/RevitToolkit) - Toolkit for Revit plugin development. (MIT)
-* [ricaun.Revit.UI](https://github.com/ricaun-io/ricaun.Revit.UI) - Revit UI API extension with RibbonItem utilities. (MIT)
-* [ricaun.RevitTest](https://github.com/ricaun-io/ricaun.RevitTest) - Multi-version NUnit testing framework for the Revit API. (MIT)
-* [VisualStudioRevitAddinWizard](https://github.com/jeremytammik/VisualStudioRevitAddinWizard) - Visual Studio templates for C# and VB.NET Revit add-ins. (MIT)
-* [vs-templates-revit-addin](https://github.com/salaros/vs-templates-revit-addin) - Visual Studio C# template for Revit add-ins. (MIT)
+* [RevitTemplates](https://github.com/Nice3point/RevitTemplates) - Project templates for Revit add-ins.
+* [RevitToolkit](https://github.com/Nice3point/RevitToolkit) - Toolkit for Revit plugin development.
+* [ricaun.Revit.UI](https://github.com/ricaun-io/ricaun.Revit.UI) - Revit UI API extension with RibbonItem utilities.
+* [ricaun.RevitTest](https://github.com/ricaun-io/ricaun.RevitTest) - Multi-version NUnit testing framework for the Revit API.
+* [VisualStudioRevitAddinWizard](https://github.com/jeremytammik/VisualStudioRevitAddinWizard) - Visual Studio templates for C# and VB.NET Revit add-ins.
+* [vs-templates-revit-addin](https://github.com/salaros/vs-templates-revit-addin) - Visual Studio C# template for Revit add-ins.
 
 
 ### Sample Code and Learning
 * [revit-addin-clean-architecture](https://github.com/Ibrahim5aad/revit-addin-clean-architecture) - Layered clean architecture with MVVM and IoC for add-ins.
-* [revit-automation-dwg-exporter](https://github.com/ADN-DevTech/revit-automation-dwg-exporter) - Export views to DWG with Design Automation for Revit. (MIT)
-* [revitapisamples](https://github.com/songjiahong/revitapisamples) - Revit add-in samples using the Revit API. (MIT)
-* [RevitJumper](https://github.com/BIMCoderLiang/RevitJumper) - Search Revit API docs from inside Revit. (MIT)
-* [SampleRevitAddin](https://github.com/StarkBIM/SampleRevitAddin) - Multi-layer add-in demonstrating dependency injection and unit testing. (MIT)
+* [revit-automation-dwg-exporter](https://github.com/ADN-DevTech/revit-automation-dwg-exporter) - Export views to DWG with Design Automation for Revit.
+* [revitapisamples](https://github.com/songjiahong/revitapisamples) - Revit add-in samples using the Revit API.
+* [RevitJumper](https://github.com/BIMCoderLiang/RevitJumper) - Search Revit API docs from inside Revit.
+* [SampleRevitAddin](https://github.com/StarkBIM/SampleRevitAddin) - Multi-layer add-in demonstrating dependency injection and unit testing.
 
 
 

@@ -10,7 +10,7 @@
 {{ section.note }}
 {% endif %}
 {% for item in section.items %}
-* [{{ item.name }}]({{ item.url }}) - {{ item.description }}{{ " (" ~ item.license ~ ")" if item.license else "" }}
+* [{{ item.name }}]({{ item.url }}) - {{ item.description }}
 {% endfor %}
 {% for child in section.sections %}
 
