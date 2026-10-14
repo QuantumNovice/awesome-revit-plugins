@@ -19,9 +19,7 @@ Contents
   * [Ideate Software](#ideate-software)
   * [Graitec](#graitec)
   * [Rendering and Visualization](#rendering-and-visualization)
-* [Contributing](#contributing)
 * [Contributors](#contributors)
-* [License](#license)
 
 Open Source
 -----------
@@ -128,10 +126,6 @@ Prices change often. Check each vendor's listing before buying.
 
 
 
-Contributing
-------------
-Contributions are welcome. Read [contributing.md](contributing.md) first.
-
 Contributors
 ------------
 Thanks to everyone who has helped build this list.
@@ -139,7 +133,3 @@ Thanks to everyone who has helped build this list.
 * [![QuantumNovice](https://github.com/QuantumNovice.png?size=60)](https://github.com/QuantumNovice) [@QuantumNovice](https://github.com/QuantumNovice) - Maintainer
 
 [![Contributors](https://contrib.rocks/image?repo=QuantumNovice/awesome-revit-plugins)](https://github.com/QuantumNovice/awesome-revit-plugins/graphs/contributors)
-
-License
--------
-This list is released under [CC0-1.0](LICENSE). Each linked project has its own license.
