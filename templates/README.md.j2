@@ -1,0 +1,58 @@
+{% macro render_section(section, depth) -%}
+{% if depth == 0 %}
+{{ section.title }}
+{{ "-" * section.title | length }}
+{% else %}
+{{ "#" * (depth + 2) }} {{ section.title }}
+{% endif %}
+{% if section.note %}
+
+{{ section.note }}
+{% endif %}
+{% for item in section.items %}
+* [{{ item.name }}]({{ item.url }}) - {{ item.description }}{{ " (" ~ item.license ~ ")" if item.license else "" }}
+{% endfor %}
+{% for child in section.sections %}
+
+{{ render_section(child, depth + 1) }}
+{% endfor %}
+{%- endmacro -%}
+{% macro render_toc(sections, indent) -%}
+{% for section in sections %}
+{{ "  " * indent }}* [{{ section.title }}](#{{ section.title | github_anchor }})
+{{ render_toc(section.sections, indent + 1) }}
+{%- endfor %}
+{%- endmacro -%}
+{{ catalog.title }} [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+{{ "=" * (catalog.title | length + 40) }}
+
+> {{ catalog.description }}
+
+{{ catalog.intro }}
+
+Contents
+--------
+{{ render_toc(catalog.sections, 0) | trim }}
+* [Contributing](#contributing)
+* [Contributors](#contributors)
+* [License](#license)
+
+{% for section in catalog.sections %}
+{{ render_section(section, 0) }}
+
+{% endfor %}
+Contributing
+------------
+Contributions are welcome. Read [contributing.md](contributing.md) first.
+
+Contributors
+------------
+Thanks to everyone who has helped build this list.
+
+* [![QuantumNovice](https://github.com/QuantumNovice.png?size=60)](https://github.com/QuantumNovice) [@QuantumNovice](https://github.com/QuantumNovice) - Maintainer
+
+[![Contributors](https://contrib.rocks/image?repo=QuantumNovice/awesome-revit-plugins)](https://github.com/QuantumNovice/awesome-revit-plugins/graphs/contributors)
+
+License
+-------
+This list is released under [CC0-1.0](LICENSE). Each linked project has its own license.
