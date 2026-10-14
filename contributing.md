@@ -12,6 +12,22 @@ Thanks for helping improve this list. Please read these guidelines before openin
 * Check that the project is still maintained and supports a current Revit version.
 * Do not add duplicate entries.
 
+## Adding an entry
+
+The list is generated from `data/resources.json`. Do not edit `README.md` by hand.
+
+1. Add the entry to the right section in `data/resources.json`. Each item has `name`, `url`, and `description`, and may have `license`.
+2. Install the requirements and render the README:
+
+   ```sh
+   pip install -r requirements.txt
+   python generate.py
+   ```
+
+3. Commit both `data/resources.json` and `README.md`.
+
+`python generate.py --check` fails if the README is out of date. The CI workflow runs the same check.
+
 ## Commit messages
 
 Use one of these prefixes:
