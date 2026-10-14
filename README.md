@@ -3,6 +3,8 @@ Awesome Revit Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome
 
 > A curated list of plugins, add-ins, extensions, and developer tools for Autodesk Revit, split into open-source and paid.
 
+Awesome Revit Plugins collects the best free and commercial **Revit add-ins** for BIM and AEC teams. It covers **pyRevit**, **Dynamo for Revit**, **IFC and glTF exporters**, **Revit API** templates and samples, inspection tools like RevitLookup, and paid add-ins from the Autodesk App Store. Each entry links to the project and lists its license.
+
 Contents
 --------
 * [Open Source](#open-source)
@@ -16,6 +18,7 @@ Contents
   * [Autodesk App Store](#autodesk-app-store)
   * [Commercial Add-in Suites](#commercial-add-in-suites)
 * [Contributing](#contributing)
+* [Contributors](#contributors)
 * [License](#license)
 
 Open Source
@@ -88,6 +91,14 @@ Prices change often. Check each vendor's listing before buying.
 Contributing
 ------------
 Contributions are welcome. Read [contributing.md](contributing.md) first.
+
+Contributors
+------------
+Thanks to everyone who has helped build this list.
+
+* [![QuantumNovice](https://github.com/QuantumNovice.png?size=60)](https://github.com/QuantumNovice) [@QuantumNovice](https://github.com/QuantumNovice) - Maintainer
+
+[![Contributors](https://contrib.rocks/image?repo=QuantumNovice/awesome-revit-plugins)](https://github.com/QuantumNovice/awesome-revit-plugins/graphs/contributors)
 
 License
 -------
