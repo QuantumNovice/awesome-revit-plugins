@@ -15,10 +15,6 @@ Contents
   * [Developer Tools and Templates](#developer-tools-and-templates)
   * [Sample Code and Learning](#sample-code-and-learning)
 * [Paid](#paid)
-  * [Autodesk App Store](#autodesk-app-store)
-  * [Ideate Software](#ideate-software)
-  * [Graitec](#graitec)
-  * [Rendering and Visualization](#rendering-and-visualization)
 
 Open Source
 -----------
@@ -95,28 +91,17 @@ Open Source
 
 Paid
 ----
-
-### Autodesk App Store
 * [BIMF Tools: Insert Pipe Penetrations](https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba) - Automate pipe penetration insertion with auto-sizing and quick placement.
-* [SmartHanger](https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8) - Automatically place and manage hangers and supports on MEP elements using preset rules.
-
-
-### Ideate Software
+* [Enscape](https://enscape3d.com) - Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape.
 * [Ideate Automation](https://ideatesoftware.com/ideate-automation) - Scripting tool for running time-intensive Revit tasks in the background.
 * [Ideate BIMLink](https://ideatesoftware.com/ideate-bimlink) - Move Revit data to Excel for editing and push it back into the model.
 * [Ideate Explorer](https://ideatesoftware.com/ideate-explorer) - Model browser with a Warnings Manager. Ideate's first Revit add-in.
 * [Ideate Sticky](https://ideatesoftware.com/ideate-sticky) - Link Excel, Word and PDF data with Revit.
 * [Ideate StyleManager](https://ideatesoftware.com/ideate-stylemanager) - Manage styles, patterns, materials and more in Revit projects.
 * [IdeateApps](https://ideatesoftware.com/ideateapps) - Collection of ten productivity tools for everyday Revit tasks.
-
-
-### Graitec
 * [PowerPack Design & Detailing for Revit](https://graitec.com/us/products/powerpack-for-rebar-design-in-revit/) - Rebar detailing and documentation.
+* [SmartHanger](https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8) - Automatically place and manage hangers and supports on MEP elements using preset rules.
 * [Strucsoft Metal](https://graitec.com/us/products/mwf-pro-metal/) - Rule-based, template-driven framing automation for light gauge steel.
 * [Strucsoft Metal+](https://graitec.com/us/products/mwf-advanced-metal-by-strucsoft/) - Advanced light gauge steel framing add-in from Strucsoft.
 * [Strucsoft Wood](https://graitec.com/us/products/mwf-pro-wood/) - Rule-based, template-driven wood framing automation.
-
-
-### Rendering and Visualization
-* [Enscape](https://enscape3d.com) - Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape.
 * [V-Ray for Revit](https://www.chaos.com/cn/vray/revit) - Photorealistic rendering for Revit models, with real-time viewing through V-Ray Vision.

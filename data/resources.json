@@ -340,96 +340,76 @@
     },
     {
       "title": "Paid",
-      "sections": [
+      "items": [
         {
-          "title": "Autodesk App Store",
-          "items": [
-            {
-              "name": "BIMF Tools: Insert Pipe Penetrations",
-              "url": "https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba",
-              "description": "Automate pipe penetration insertion with auto-sizing and quick placement."
-            },
-            {
-              "name": "SmartHanger",
-              "url": "https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8",
-              "description": "Automatically place and manage hangers and supports on MEP elements using preset rules."
-            }
-          ]
+          "name": "BIMF Tools: Insert Pipe Penetrations",
+          "url": "https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba",
+          "description": "Automate pipe penetration insertion with auto-sizing and quick placement."
         },
         {
-          "title": "Ideate Software",
-          "items": [
-            {
-              "name": "Ideate Automation",
-              "url": "https://ideatesoftware.com/ideate-automation",
-              "description": "Scripting tool for running time-intensive Revit tasks in the background."
-            },
-            {
-              "name": "Ideate BIMLink",
-              "url": "https://ideatesoftware.com/ideate-bimlink",
-              "description": "Move Revit data to Excel for editing and push it back into the model."
-            },
-            {
-              "name": "Ideate Explorer",
-              "url": "https://ideatesoftware.com/ideate-explorer",
-              "description": "Model browser with a Warnings Manager. Ideate's first Revit add-in."
-            },
-            {
-              "name": "Ideate Sticky",
-              "url": "https://ideatesoftware.com/ideate-sticky",
-              "description": "Link Excel, Word and PDF data with Revit."
-            },
-            {
-              "name": "Ideate StyleManager",
-              "url": "https://ideatesoftware.com/ideate-stylemanager",
-              "description": "Manage styles, patterns, materials and more in Revit projects."
-            },
-            {
-              "name": "IdeateApps",
-              "url": "https://ideatesoftware.com/ideateapps",
-              "description": "Collection of ten productivity tools for everyday Revit tasks."
-            }
-          ]
+          "name": "Enscape",
+          "url": "https://enscape3d.com",
+          "description": "Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape."
         },
         {
-          "title": "Graitec",
-          "items": [
-            {
-              "name": "PowerPack Design & Detailing for Revit",
-              "url": "https://graitec.com/us/products/powerpack-for-rebar-design-in-revit/",
-              "description": "Rebar detailing and documentation."
-            },
-            {
-              "name": "Strucsoft Metal",
-              "url": "https://graitec.com/us/products/mwf-pro-metal/",
-              "description": "Rule-based, template-driven framing automation for light gauge steel."
-            },
-            {
-              "name": "Strucsoft Metal+",
-              "url": "https://graitec.com/us/products/mwf-advanced-metal-by-strucsoft/",
-              "description": "Advanced light gauge steel framing add-in from Strucsoft."
-            },
-            {
-              "name": "Strucsoft Wood",
-              "url": "https://graitec.com/us/products/mwf-pro-wood/",
-              "description": "Rule-based, template-driven wood framing automation."
-            }
-          ]
+          "name": "Ideate Automation",
+          "url": "https://ideatesoftware.com/ideate-automation",
+          "description": "Scripting tool for running time-intensive Revit tasks in the background."
         },
         {
-          "title": "Rendering and Visualization",
-          "items": [
-            {
-              "name": "Enscape",
-              "url": "https://enscape3d.com",
-              "description": "Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape."
-            },
-            {
-              "name": "V-Ray for Revit",
-              "url": "https://www.chaos.com/cn/vray/revit",
-              "description": "Photorealistic rendering for Revit models, with real-time viewing through V-Ray Vision."
-            }
-          ]
+          "name": "Ideate BIMLink",
+          "url": "https://ideatesoftware.com/ideate-bimlink",
+          "description": "Move Revit data to Excel for editing and push it back into the model."
+        },
+        {
+          "name": "Ideate Explorer",
+          "url": "https://ideatesoftware.com/ideate-explorer",
+          "description": "Model browser with a Warnings Manager. Ideate's first Revit add-in."
+        },
+        {
+          "name": "Ideate Sticky",
+          "url": "https://ideatesoftware.com/ideate-sticky",
+          "description": "Link Excel, Word and PDF data with Revit."
+        },
+        {
+          "name": "Ideate StyleManager",
+          "url": "https://ideatesoftware.com/ideate-stylemanager",
+          "description": "Manage styles, patterns, materials and more in Revit projects."
+        },
+        {
+          "name": "IdeateApps",
+          "url": "https://ideatesoftware.com/ideateapps",
+          "description": "Collection of ten productivity tools for everyday Revit tasks."
+        },
+        {
+          "name": "PowerPack Design & Detailing for Revit",
+          "url": "https://graitec.com/us/products/powerpack-for-rebar-design-in-revit/",
+          "description": "Rebar detailing and documentation."
+        },
+        {
+          "name": "SmartHanger",
+          "url": "https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8",
+          "description": "Automatically place and manage hangers and supports on MEP elements using preset rules."
+        },
+        {
+          "name": "Strucsoft Metal",
+          "url": "https://graitec.com/us/products/mwf-pro-metal/",
+          "description": "Rule-based, template-driven framing automation for light gauge steel."
+        },
+        {
+          "name": "Strucsoft Metal+",
+          "url": "https://graitec.com/us/products/mwf-advanced-metal-by-strucsoft/",
+          "description": "Advanced light gauge steel framing add-in from Strucsoft."
+        },
+        {
+          "name": "Strucsoft Wood",
+          "url": "https://graitec.com/us/products/mwf-pro-wood/",
+          "description": "Rule-based, template-driven wood framing automation."
+        },
+        {
+          "name": "V-Ray for Revit",
+          "url": "https://www.chaos.com/cn/vray/revit",
+          "description": "Photorealistic rendering for Revit models, with real-time viewing through V-Ray Vision."
         }
       ]
     }
