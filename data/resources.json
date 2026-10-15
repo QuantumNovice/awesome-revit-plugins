@@ -22,6 +22,23 @@
               "license": "MIT"
             },
             {
+              "name": "bSDD-Revit-plugin",
+              "url": "https://github.com/buildingsmart-community/bSDD-Revit-plugin",
+              "description": "Revit plugin for buildingSMART Data Dictionary (bSDD) classification.",
+              "license": "MIT"
+            },
+            {
+              "name": "CustomExporterAdnMeshJson",
+              "url": "https://github.com/jeremytammik/CustomExporterAdnMeshJson",
+              "description": "Custom Revit geometry exporter to ADN mesh JSON.",
+              "license": "MIT"
+            },
+            {
+              "name": "MantisShrimp",
+              "url": "https://github.com/ksobon/MantisShrimp",
+              "description": "Bridge between Rhino/Grasshopper and Revit/Dynamo."
+            },
+            {
               "name": "OpenGLB",
               "url": "https://quantumnovice.github.io/OpenGLB/",
               "description": "Open-source Revit to GLB (glTF 2.0 binary) exporter with geometry, hierarchy, materials, and BIM metadata JSON. Revit 2020-2026.",
@@ -44,10 +61,28 @@
               "description": "glTF format exporter for Autodesk Revit."
             },
             {
+              "name": "RevitExportGltf",
+              "url": "https://github.com/weiyu666/RevitExportGltf",
+              "description": "Export Revit models to glTF with material and texture handling.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitIfcClassMap",
+              "url": "https://github.com/jmirtsch/RevitIfcClassMap",
+              "description": "Mapping of IFC classes to Revit categories for import.",
+              "license": "MIT"
+            },
+            {
               "name": "rhino.inside-revit",
               "url": "https://github.com/mcneel/rhino.inside-revit",
               "description": "Run Rhino and Grasshopper inside Revit.",
               "license": "MIT"
+            },
+            {
+              "name": "threejs-revit-exporter",
+              "url": "https://github.com/CodeCavePro/threejs-revit-exporter",
+              "description": "Batch export Revit files to JSON scene format for Three.js.",
+              "license": "GPL-3.0"
             }
           ]
         },
@@ -55,15 +90,45 @@
           "title": "Productivity and Automation",
           "items": [
             {
+              "name": "addins-colorsplasher",
+              "url": "https://github.com/bimone/addins-colorsplasher",
+              "description": "Color Splasher add-in for coloring elements by parameter.",
+              "license": "MIT"
+            },
+            {
+              "name": "aec-model-bridge",
+              "url": "https://github.com/Sam-AEC/aec-model-bridge",
+              "description": "Model Context Protocol server that lets AI assistants read and edit BIM models with human approval.",
+              "license": "GPL-3.0"
+            },
+            {
               "name": "AIrender-revitaddin",
               "url": "https://github.com/khilller/AIrender-revitaddin",
               "description": "Render images from Revit using Stable Diffusion models.",
               "license": "MIT"
             },
             {
+              "name": "AnalyzeTool",
+              "url": "https://github.com/Nikola1Davydov/AnalyzeTool",
+              "description": "Free Revit plugin for family and parameter workflows.",
+              "license": "Apache-2.0"
+            },
+            {
               "name": "AreaPlanHelper",
               "url": "https://github.com/mattmas/AreaPlanHelper",
               "description": "Create areas from rooms using BOMA or similar rules."
+            },
+            {
+              "name": "AVRO",
+              "url": "https://github.com/georgenovak97/AVRO",
+              "description": "pyRevit extension with tools for Revit.",
+              "license": "MIT"
+            },
+            {
+              "name": "clippy-ai",
+              "url": "https://github.com/birdman093/clippy-ai",
+              "description": "OpenAI assistant plugin for Revit.",
+              "license": "MIT"
             },
             {
               "name": "DynamoAutomation",
@@ -78,10 +143,40 @@
               "license": "GPL-3.0"
             },
             {
+              "name": "family-updater",
+              "url": "https://github.com/Nice3point/family-updater",
+              "description": "Revit plugin to update families.",
+              "license": "MIT"
+            },
+            {
+              "name": "FETCH",
+              "url": "https://github.com/johnpierson/FETCH",
+              "description": "Loads Dynamo packages on Revit startup from configured locations.",
+              "license": "BSD-3-Clause"
+            },
+            {
+              "name": "geeWiz",
+              "url": "https://github.com/aussieBIMguru/geeWiz",
+              "description": "Custom C# Revit toolbar for Revit 2023-2025.",
+              "license": "MIT"
+            },
+            {
               "name": "guRoo_Py",
               "url": "https://github.com/aussieBIMguru/guRoo_Py",
               "description": "Source files for a free pyRevit toolbar.",
               "license": "BSD-3-Clause"
+            },
+            {
+              "name": "HOK-Revit-Addins",
+              "url": "https://github.com/HOKGroup/HOK-Revit-Addins",
+              "description": "Revit add-ins and source code from HOK.",
+              "license": "MIT"
+            },
+            {
+              "name": "horizun-revit-mcp",
+              "url": "https://github.com/HorizunGroup/horizun-revit-mcp",
+              "description": "Model Context Protocol server for Revit 2023-2027.",
+              "license": "Apache-2.0"
             },
             {
               "name": "LazyDetailComponent",
@@ -96,10 +191,38 @@
               "license": "MIT"
             },
             {
+              "name": "MyRevitAddins",
+              "url": "https://github.com/shtirlitsDva/MyRevitAddins",
+              "description": "Collection of Revit add-ins.",
+              "license": "GPL-3.0"
+            },
+            {
+              "name": "pyApex",
+              "url": "https://github.com/apex-project/pyApex",
+              "description": "Apex Project BIM utilities as a pyRevit extension.",
+              "license": "GPL-3.0"
+            },
+            {
+              "name": "pyArchitect",
+              "url": "https://github.com/romangolev/pyArchitect",
+              "description": "pyRevit extension for architecture, interior design, and coordination.",
+              "license": "GPL-3.0"
+            },
+            {
+              "name": "pyByggstyrning.extension",
+              "url": "https://github.com/byggstyrning/pyByggstyrning.extension",
+              "description": "pyRevit extension."
+            },
+            {
               "name": "pyRevit",
               "url": "https://github.com/pyrevitlabs/pyRevit",
               "description": "Rapid application development environment for Revit. Build tools in Python (IronPython or CPython).",
               "license": "GPL-3.0"
+            },
+            {
+              "name": "PYREVIT-EXTENSION",
+              "url": "https://github.com/OSCARMENDOZA97/PYREVIT-EXTENSION",
+              "description": "Free pyRevit tools for BIM automation."
             },
             {
               "name": "pyRevitMEP",
@@ -138,9 +261,55 @@
               "license": "GPL-3.0"
             },
             {
+              "name": "RevitFamilyBrowser",
+              "url": "https://github.com/RomanLavrov/RevitFamilyBrowser",
+              "description": "Browser for .rfa Revit family files."
+            },
+            {
+              "name": "RevitGeminiRAG",
+              "url": "https://github.com/ismail-seleit/RevitGeminiRAG",
+              "description": "Gemini-powered assistant inside Revit with RAG over the Revit API."
+            },
+            {
               "name": "RevitHP",
               "url": "https://github.com/HP-Enterprise/RevitHP",
               "description": "Family library browser."
+            },
+            {
+              "name": "RevitMCP",
+              "url": "https://github.com/oakplank/RevitMCP",
+              "description": "Model Context Protocol server for Autodesk Revit.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitMEPTransparent",
+              "url": "https://github.com/DaltonGOO/RevitMEPTransparent",
+              "description": "Open-source replacements for Revit's MEP calculations.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitPlugins",
+              "url": "https://github.com/Bim4Everyone/RevitPlugins",
+              "description": "Collection of Revit plugins for BIM workflows.",
+              "license": "MIT"
+            },
+            {
+              "name": "rooms-spaces-revit-plugin",
+              "url": "https://github.com/wallabyway/rooms-spaces-revit-plugin",
+              "description": "Rooms and spaces plugin for Revit.",
+              "license": "MIT"
+            },
+            {
+              "name": "rvt-mcp",
+              "url": "https://github.com/bimwright/rvt-mcp",
+              "description": "AI-native Model Context Protocol server for Revit 2022-2027.",
+              "license": "Apache-2.0"
+            },
+            {
+              "name": "SSG.extension",
+              "url": "https://github.com/kbruxvoort/SSG.extension",
+              "description": "pyRevit extension from Southwest Solutions Group.",
+              "license": "MIT"
             },
             {
               "name": "ZoidbergAI.Addin",
@@ -166,6 +335,12 @@
               "license": "GPL-3.0"
             },
             {
+              "name": "revit-family-web-viewer",
+              "url": "https://github.com/CodeCavePro/revit-family-web-viewer",
+              "description": "Three.js web viewer for Revit projects exported with RvtVa3c.",
+              "license": "GPL-3.0"
+            },
+            {
               "name": "RevitAddin.UpdaterTester",
               "url": "https://github.com/ricaun-io/RevitAddin.UpdaterTester",
               "description": "Show which BuiltInParameters trigger an IUpdater.",
@@ -178,9 +353,32 @@
               "license": "Apache-2.0"
             },
             {
+              "name": "RevitElementBipChecker",
+              "url": "https://github.com/chuongmep/RevitElementBipChecker",
+              "description": "Check element parameters and built-in parameter values.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitExplorer",
+              "url": "https://github.com/pzurek/RevitExplorer",
+              "description": "Explore Revit models and their elements."
+            },
+            {
+              "name": "RevitIfcPropertyBrowser",
+              "url": "https://github.com/jmirtsch/RevitIfcPropertyBrowser",
+              "description": "Prototype IFC property browser for Revit.",
+              "license": "GPL-3.0"
+            },
+            {
               "name": "RevitLookup",
               "url": "https://github.com/lookup-foundation/RevitLookup",
               "description": "Interactive Revit database explorer for inspecting elements and parameters.",
+              "license": "MIT"
+            },
+            {
+              "name": "TraverseAllSystems",
+              "url": "https://github.com/jeremytammik/TraverseAllSystems",
+              "description": "Extract the graph structure of all MEP systems.",
               "license": "MIT"
             }
           ]
@@ -201,16 +399,39 @@
               "license": "Apache-2.0"
             },
             {
+              "name": "DynamoMEP",
+              "url": "https://github.com/simonmoreau/DynamoMEP",
+              "description": "Dynamo nodes for Revit MEP.",
+              "license": "MIT"
+            },
+            {
               "name": "DynamoRevit",
               "url": "https://github.com/DynamoDS/DynamoRevit",
               "description": "Dynamo libraries for Revit.",
               "license": "Apache-2.0"
             },
             {
+              "name": "KennySTRUCT-Dynamo-Scripts",
+              "url": "https://github.com/Kennystruct/KennySTRUCT-Dynamo-Scripts",
+              "description": "Dynamo scripts for Revit."
+            },
+            {
               "name": "OpenMEP",
               "url": "https://github.com/chuongmep/OpenMEP",
               "description": "MEP and computational design package for Dynamo and Revit.",
               "license": "MIT"
+            },
+            {
+              "name": "Revit-Dynamo-MEP",
+              "url": "https://github.com/jpstaub/Revit-Dynamo-MEP",
+              "description": "Dynamo programs for MEP automation in Revit.",
+              "license": "GPL-3.0"
+            },
+            {
+              "name": "Scan-to-BIM-Dynamo",
+              "url": "https://github.com/Saiga1105/Scan-to-BIM-Dynamo",
+              "description": "Dynamo plug-in for scan-to-BIM workflows.",
+              "license": "GPL-3.0"
             }
           ]
         },
@@ -218,9 +439,39 @@
           "title": "Developer Tools and Templates",
           "items": [
             {
+              "name": "ai-pyrevit-developer-template",
+              "url": "https://github.com/OriAshkenazi/ai-pyrevit-developer-template",
+              "description": "AI-first pyRevit extension template.",
+              "license": "MIT"
+            },
+            {
+              "name": "MVVMToolkit",
+              "url": "https://github.com/jtprichard/MVVMToolkit",
+              "description": "Basic WPF toolkit using MVVM for Revit API applications.",
+              "license": "MIT"
+            },
+            {
               "name": "revit-api",
               "url": "https://github.com/Nice3point/revit-api",
               "description": "Reference assemblies for Revit plugin development.",
+              "license": "MIT"
+            },
+            {
+              "name": "revit-utils",
+              "url": "https://github.com/ara3d/revit-utils",
+              "description": "Utility functions and classes for working with the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "revit-wpf-template",
+              "url": "https://github.com/mitevpi/revit-wpf-template",
+              "description": "Revit add-in template using WPF and external commands.",
+              "license": "MIT"
+            },
+            {
+              "name": "Revit.Async",
+              "url": "https://github.com/KennanChan/Revit.Async",
+              "description": "Run Revit API code from any execution context using the task-based asynchronous pattern.",
               "license": "MIT"
             },
             {
@@ -253,6 +504,12 @@
               "description": ".NET project template for multi-version Revit add-ins."
             },
             {
+              "name": "RevitAPIToolbox",
+              "url": "https://github.com/KennanChan/RevitAPIToolbox",
+              "description": "Extension classes for Revit API development.",
+              "license": "MIT"
+            },
+            {
               "name": "RevitExtensions",
               "url": "https://github.com/Nice3point/RevitExtensions",
               "description": "Extensions for Revit plugin development.",
@@ -277,9 +534,39 @@
               "license": "MIT"
             },
             {
+              "name": "ricaun.Revit.UI.StatusBar",
+              "url": "https://github.com/ricaun-io/ricaun.Revit.UI.StatusBar",
+              "description": "Progress bar in the Revit status bar for add-in developers.",
+              "license": "MIT"
+            },
+            {
+              "name": "ricaun.Revit.UI.Tasks",
+              "url": "https://github.com/ricaun-io/ricaun.Revit.UI.Tasks",
+              "description": "Run Revit API code with Tasks.",
+              "license": "MIT"
+            },
+            {
               "name": "ricaun.RevitTest",
               "url": "https://github.com/ricaun-io/ricaun.RevitTest",
               "description": "Multi-version NUnit testing framework for the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "SimpleRevit",
+              "url": "https://github.com/Ted-Jin-Lab/SimpleRevit",
+              "description": "Toolkit for simplifying Revit plugin development.",
+              "license": "LGPL-3.0"
+            },
+            {
+              "name": "Su.Revit.HelixToolkit.SharpDX",
+              "url": "https://github.com/ViewSuSu/Su.Revit.HelixToolkit.SharpDX",
+              "description": "3D visualization toolkit for Revit plugins built on HelixToolkit.",
+              "license": "MIT"
+            },
+            {
+              "name": "Tuna.Revit.Toolkit",
+              "url": "https://github.com/shichuyibushishiwu/Tuna.Revit.Toolkit",
+              "description": "Revit API toolkit.",
               "license": "MIT"
             },
             {
@@ -300,9 +587,45 @@
           "title": "Sample Code and Learning",
           "items": [
             {
+              "name": "AdnRevitApiLabsXtra",
+              "url": "https://github.com/jeremytammik/AdnRevitApiLabsXtra",
+              "description": "ADN Revit API training labs.",
+              "license": "MIT"
+            },
+            {
+              "name": "AdnRme",
+              "url": "https://github.com/jeremytammik/AdnRme",
+              "description": "ADN sample add-in for Revit MEP HVAC and electrical.",
+              "license": "MIT"
+            },
+            {
+              "name": "BIMPlanet_RevitAPI",
+              "url": "https://github.com/architectBIM/BIMPlanet_RevitAPI",
+              "description": "Dynamo, Python and Revit API snippets and manuals.",
+              "license": "MIT"
+            },
+            {
+              "name": "ModifyTabButton",
+              "url": "https://github.com/jeremytammik/ModifyTabButton",
+              "description": "Add a custom button to the Modify tab in Revit.",
+              "license": "Apache-2.0"
+            },
+            {
+              "name": "multiversion-revit-plugin-sample",
+              "url": "https://github.com/alvpickmans/multiversion-revit-plugin-sample",
+              "description": "Sample plugin targeting multiple Revit versions.",
+              "license": "MIT"
+            },
+            {
               "name": "revit-addin-clean-architecture",
               "url": "https://github.com/Ibrahim5aad/revit-addin-clean-architecture",
               "description": "Layered clean architecture with MVVM and IoC for add-ins."
+            },
+            {
+              "name": "revit-api-chms",
+              "url": "https://github.com/ADN-DevTech/revit-api-chms",
+              "description": "Collection of Revit API CHM help files from the Revit SDKs.",
+              "license": "MIT"
             },
             {
               "name": "revit-automation-dwg-exporter",
@@ -311,9 +634,42 @@
               "license": "MIT"
             },
             {
+              "name": "Revit_WPF_Example",
+              "url": "https://github.com/mostafa901/Revit_WPF_Example",
+              "description": "Minimal example of running a WPF window inside Revit."
+            },
+            {
+              "name": "RevitAddin.Dockable.Example",
+              "url": "https://github.com/ricaun-io/RevitAddin.Dockable.Example",
+              "description": "Register a dockable pane using the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAPI",
+              "url": "https://github.com/Gytaco/RevitAPI",
+              "description": "Commented Revit API code samples for new users.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAPI_EveryDay",
+              "url": "https://github.com/chuongmep/RevitAPI_EveryDay",
+              "description": "Revit API guide from zero to hero."
+            },
+            {
+              "name": "revitapidocs",
+              "url": "https://github.com/gtalarico/revitapidocs",
+              "description": "Online Revit API documentation."
+            },
+            {
               "name": "revitapisamples",
               "url": "https://github.com/songjiahong/revitapisamples",
               "description": "Revit add-in samples using the Revit API.",
+              "license": "MIT"
+            },
+            {
+              "name": "RevitAPISnippets",
+              "url": "https://github.com/mayconrfreitas/RevitAPISnippets",
+              "description": "Revit API snippets for Visual Studio.",
               "license": "MIT"
             },
             {
@@ -332,6 +688,12 @@
               "name": "SampleRevitAddin",
               "url": "https://github.com/StarkBIM/SampleRevitAddin",
               "description": "Multi-layer add-in demonstrating dependency injection and unit testing.",
+              "license": "MIT"
+            },
+            {
+              "name": "tbc",
+              "url": "https://github.com/jeremytammik/tbc",
+              "description": "Source of The Building Coder Revit API blog.",
               "license": "MIT"
             }
           ]
