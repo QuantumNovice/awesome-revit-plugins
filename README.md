@@ -19,7 +19,6 @@ Contents
   * [Ideate Software](#ideate-software)
   * [Graitec](#graitec)
   * [Rendering and Visualization](#rendering-and-visualization)
-* [Contributors](#contributors)
 
 Open Source
 -----------
@@ -121,13 +120,3 @@ Paid
 ### Rendering and Visualization
 * [Enscape](https://enscape3d.com) - Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape.
 * [V-Ray for Revit](https://www.chaos.com/cn/vray/revit) - Photorealistic rendering for Revit models, with real-time viewing through V-Ray Vision.
-
-
-
-Contributors
-------------
-Thanks to everyone who has helped build this list.
-
-* [![QuantumNovice](https://github.com/QuantumNovice.png?size=60)](https://github.com/QuantumNovice) [@QuantumNovice](https://github.com/QuantumNovice) - Maintainer
-
-[![Contributors](https://contrib.rocks/image?repo=QuantumNovice/awesome-revit-plugins)](https://github.com/QuantumNovice/awesome-revit-plugins/graphs/contributors)
