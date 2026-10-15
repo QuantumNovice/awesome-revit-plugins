@@ -714,6 +714,11 @@
           "description": "Insert parametric furniture and decor families into Revit projects with one click. Includes a free tier."
         },
         {
+          "name": "DiRootsOne",
+          "url": "https://diroots.com/revit-plugins/dirootsone/",
+          "description": "Bundle of Revit tools for element filtering, parameter management, view and sheet automation, and spreadsheet-driven tables. Includes free tools."
+        },
+        {
           "name": "Enscape",
           "url": "https://enscape3d.com",
           "description": "Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape."
@@ -747,6 +752,11 @@
           "name": "IdeateApps",
           "url": "https://ideatesoftware.com/ideateapps",
           "description": "Collection of ten productivity tools for everyday Revit tasks."
+        },
+        {
+          "name": "Pirros",
+          "url": "https://help.pirros.com/en/collections/19648147-install-setup",
+          "description": "Detail management add-in that batch-loads details into Revit models from project history."
         },
         {
           "name": "PowerPack Design & Detailing for Revit",
