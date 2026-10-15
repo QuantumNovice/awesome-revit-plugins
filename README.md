@@ -154,6 +154,7 @@ Open Source
 Paid
 ----
 * [BIMF Tools: Insert Pipe Penetrations](https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba) - Automate pipe penetration insertion with auto-sizing and quick placement.
+* [Blocks Plugin for Revit](https://www.blocksrvt.com/en/download) - Insert parametric furniture and decor families into Revit projects with one click. Includes a free tier.
 * [Enscape](https://enscape3d.com) - Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape.
 * [Ideate Automation](https://ideatesoftware.com/ideate-automation) - Scripting tool for running time-intensive Revit tasks in the background.
 * [Ideate BIMLink](https://ideatesoftware.com/ideate-bimlink) - Move Revit data to Excel for editing and push it back into the model.

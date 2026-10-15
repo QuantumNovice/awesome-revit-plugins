@@ -709,6 +709,11 @@
           "description": "Automate pipe penetration insertion with auto-sizing and quick placement."
         },
         {
+          "name": "Blocks Plugin for Revit",
+          "url": "https://www.blocksrvt.com/en/download",
+          "description": "Insert parametric furniture and decor families into Revit projects with one click. Includes a free tier."
+        },
+        {
           "name": "Enscape",
           "url": "https://enscape3d.com",
           "description": "Real-time rendering and VR inside Revit, with changes in Revit appearing in Enscape."
