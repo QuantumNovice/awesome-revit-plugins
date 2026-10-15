@@ -98,8 +98,8 @@ Paid
 ----
 
 ### Autodesk App Store
-* [BIMF Tools: Insert Pipe Penetrations](https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba) - Automate pipe penetration insertion with auto-sizing and quick placement. USD 19.80.
-* [SmartHanger](https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8) - Automatically place and manage hangers and supports on MEP elements using preset rules. USD 16.99/month with a free trial.
+* [BIMF Tools: Insert Pipe Penetrations](https://marketplace.autodesk.com/apps/f80471bb-eb7e-42ed-9fc3-34880f973dba) - Automate pipe penetration insertion with auto-sizing and quick placement.
+* [SmartHanger](https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8) - Automatically place and manage hangers and supports on MEP elements using preset rules.
 
 
 ### Ideate Software
