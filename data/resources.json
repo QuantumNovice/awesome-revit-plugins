@@ -764,6 +764,11 @@
           "description": "Rebar detailing and documentation."
         },
         {
+          "name": "RayCAD",
+          "url": "https://getraycad.com/?utm_source=awesome-revit-plugins",
+          "description": "Automates MEPF tagging and annotation of shop drawings in Revit 2021 to 2027. HVAC and piping supported."
+        },
+        {
           "name": "SmartHanger",
           "url": "https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8",
           "description": "Automatically place and manage hangers and supports on MEP elements using preset rules."

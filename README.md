@@ -165,6 +165,7 @@ Paid
 * [IdeateApps](https://ideatesoftware.com/ideateapps) - Collection of ten productivity tools for everyday Revit tasks.
 * [Pirros](https://help.pirros.com/en/collections/19648147-install-setup) - Detail management add-in that batch-loads details into Revit models from project history.
 * [PowerPack Design & Detailing for Revit](https://graitec.com/us/products/powerpack-for-rebar-design-in-revit/) - Rebar detailing and documentation.
+* [RayCAD](https://getraycad.com/?utm_source=awesome-revit-plugins) - Automates MEPF tagging and annotation of shop drawings in Revit 2021 to 2027. HVAC and piping supported.
 * [SmartHanger](https://marketplace.autodesk.com/apps/4aa088fe-e89f-44cb-abd5-38428cbcd4a8) - Automatically place and manage hangers and supports on MEP elements using preset rules.
 * [Strucsoft Metal](https://graitec.com/us/products/mwf-pro-metal/) - Rule-based, template-driven framing automation for light gauge steel.
 * [Strucsoft Metal+](https://graitec.com/us/products/mwf-advanced-metal-by-strucsoft/) - Advanced light gauge steel framing add-in from Strucsoft.
