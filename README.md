@@ -53,6 +53,7 @@ Open Source
 * [horizun-revit-mcp](https://github.com/HorizunGroup/horizun-revit-mcp) - Model Context Protocol server for Revit 2023-2027.
 * [LazyDetailComponent](https://github.com/PitPaf/LazyDetailComponent) - Detail component helper.
 * [mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - Connect AI assistants to Revit through the Model Context Protocol.
+* [Model MCP](https://github.com/sharafutdinovdi/revit-model-mcp) - Open-source MCP server for Autodesk Revit 2022 to 2027: read, audit and edit live models with 89 tools, one Undo entry per change, and a workstation read-only lock.
 * [MyRevitAddins](https://github.com/shtirlitsDva/MyRevitAddins) - Collection of Revit add-ins.
 * [pyApex](https://github.com/apex-project/pyApex) - Apex Project BIM utilities as a pyRevit extension.
 * [pyArchitect](https://github.com/romangolev/pyArchitect) - pyRevit extension for architecture, interior design, and coordination.
