@@ -191,6 +191,12 @@
               "license": "MIT"
             },
             {
+              "name": "Model MCP",
+              "url": "https://github.com/sharafutdinovdi/revit-model-mcp",
+              "description": "Open-source MCP server for Autodesk Revit 2022 to 2027: read, audit and edit live models with 89 tools, one Undo entry per change, and a workstation read-only lock.",
+              "license": "MIT"
+            },
+            {
               "name": "MyRevitAddins",
               "url": "https://github.com/shtirlitsDva/MyRevitAddins",
               "description": "Collection of Revit add-ins.",
